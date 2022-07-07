@@ -8,7 +8,7 @@ src/main/resources/mapper/mysql/framework/mod/db/DBMapper.xml
 
 Code：   
 
-Found that the mapper file 'name' parameter is not precompiled
+Found that the mapper file 'name' ’oldName‘parameter is not precompiled
 
 ```
 <update id="renameTable" parameterType="com.seeyoui.kensite.framework.mod.table.domain.Table">
