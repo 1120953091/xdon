@@ -80,4 +80,4 @@ Edition：
 Version = all    
 
 Cause the cause ：           
-Use the splicing method to splice the parameter'"+name+"' in the sql query statement, and then bring the sql statement into the database for execution, and the vulnerability is triggered.
+Use the splicing method to splice the parameter'"+name+"' '"+oldname+"' in the sql query statement, and then bring the sql statement into the database for execution, and the vulnerability is triggered.
